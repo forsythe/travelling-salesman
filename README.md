@@ -2,8 +2,9 @@
 A visualizer which can use both [simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing) and [2-opt](https://en.wikipedia.org/wiki/2-opt) to find a good solution to the TSP problem. The program can support running simulated annealing or 2-opt individually, or running them consecutively. For simulated annealing, a red bar at the bottom of the screen represents temperature. 
 
 ### Demo
-https://www.youtube.com/watch?v=-eo5JfMb7_I
-
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=-eo5JfMb7_I
+" target="_blank"><img src="http://img.youtube.com/vi/-eo5JfMb7_I/0.jpg" 
+alt="Traveling Salesman (100 Cities): Simulated Annealing + 2-opt " width="240" height="180" border="10" /></a>
 
 ### Notes
 Customizable options under `defs.h`  
