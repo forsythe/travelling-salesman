@@ -6,7 +6,7 @@ A visualizer which can use both [simulated annealing](https://en.wikipedia.org/w
 
 
 ### Notes
-Customizable options under `defs.h`
+Customizable options under `defs.h`  
   `NUM_CITIES`: Number of cities  
   
   `COOL_RATE`: Cooling rate for simulated annealing  
