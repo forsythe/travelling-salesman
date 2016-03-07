@@ -2,7 +2,7 @@
 A visualizer which can use both [simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing) and [2-opt](https://en.wikipedia.org/wiki/2-opt) to find a good solution to the TSP problem. The program can support running simulated annealing or 2-opt individually, or running them consecutively. For simulated annealing, a red bar at the bottom of the screen represents temperature. 
 
 ### Demo
-
+https://www.youtube.com/watch?v=-eo5JfMb7_I
 
 
 ### Notes
