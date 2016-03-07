@@ -4,7 +4,7 @@ A visualizer which can use both [simulated annealing](https://en.wikipedia.org/w
 ### Demo
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=-eo5JfMb7_I
 " target="_blank"><img src="http://img.youtube.com/vi/-eo5JfMb7_I/0.jpg" 
-alt="Traveling Salesman (100 Cities): Simulated Annealing + 2-opt " width="960" height="640" border="10" /></a>
+alt="Traveling Salesman (100 Cities): Simulated Annealing + 2-opt " width="500" height="300" border="10" /></a>
 
 ### Notes
 Customizable options under `defs.h`  
