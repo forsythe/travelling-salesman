@@ -8,19 +8,18 @@ As a note: if you're impatient, 2opt performs much faster than SA! Try `NUM_CITI
 " target="_blank"><img src="http://img.youtube.com/vi/W-aAjd8_bUc/0.jpg" 
 alt="Traveling Salesman (1000 Cities): Simulated Annealing + 2-opt " width="500" height="300" border="10" /></a>
 
-### Notes
-Customizable options under `defs.h`  
-  `NUM_CITIES`: Number of cities  
-  
-  `COOL_RATE`: Cooling rate for simulated annealing  
-  `TEMP`: Starting temperature for simulated annealing  
-  
-  `SA`: Whether or not to use simulated annealing to solve   
-  `twOPT`: Whether or not to use 2-opt to solve  
-  
-  `ANIMATED`: Whether or not to animated the solving process, or display to solution when found  
-  `SHOW_2OPT_STEPS`: Whether or not to show which two links were swapped  
-  `DELAY_2OPT_MS`: Millisecond delay to make it easier to follow 2opt swaps  
+### Customizable options under `defs.h`  
+`NUM_CITIES`: Number of cities  
+
+`COOL_RATE`: Cooling rate for simulated annealing  
+`TEMP`: Starting temperature for simulated annealing  
+
+`SA`: Whether or not to use simulated annealing to solve   
+`twOPT`: Whether or not to use 2-opt to solve  
+
+`ANIMATED`: Whether or not to animated the solving process, or display to solution when found  
+`SHOW_2OPT_STEPS`: Whether or not to show which two links were swapped  
+`DELAY_2OPT_MS`: Millisecond delay to make it easier to follow 2opt swaps  
   
 
 
