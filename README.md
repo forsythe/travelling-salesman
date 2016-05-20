@@ -4,7 +4,7 @@ A visualizer which can use both [simulated annealing](https://en.wikipedia.org/w
 As a note: if you're impatient, 2opt performs much faster than SA! Try `NUM_CITIES` = 10,000 for some neat graphics.
 
 ### Demo (1000 cities, SA + 2opt)
-click to watch
+click to watch  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=W-aAjd8_bUc
 " target="_blank"><img src="http://img.youtube.com/vi/W-aAjd8_bUc/0.jpg" 
 alt="Traveling Salesman (1000 Cities): Simulated Annealing + 2-opt " width="500" height="300" border="10" /></a>
